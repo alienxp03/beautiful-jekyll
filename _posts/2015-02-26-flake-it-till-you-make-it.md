@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: Flake it till you make it, ok?
 subtitle: Excerpt from Soulshaping by Jeff Brown
 bigimg: /img/path.jpg
 ---
